@@ -1,0 +1,12 @@
+Getting Started (Link NodeJS: https://nodejs.org/en/)
+
+Newman is built on Node.js. To run Newman, make sure you have Node.js installed. Node.js can be downloaded and installed from here on Linux, Windows, and Mac OSX.
+Once Node.js is installed, Newman is just a command away.
+
+npm install -g newman
+This installs Newman from npm globally on your system allowing you to run it from anywhere.
+
+The easiest way to run Newman is to run it with a collection. You can run any collection file lying on your file-system. Refer to the collection documentation to learn how to use and download collections.
+You can also pass a Postman Collection as a URL. Your collection probably uses environment variables. To provide an accompanying set of environment variables, export them from Postman and run them with the -e flag.
+
+newman run https://www.getpostman.com/collections/913cbf0bdf6e84acae56
