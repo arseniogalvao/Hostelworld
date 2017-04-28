@@ -19,7 +19,7 @@ The `newman run` command allows you to specify a collection to be run. You can e
 Collection as a json file from the [Postman App](https://www.getpostman.com/apps) and run it using Newman.
 
 ```terminal
-$ newman run https://github.com/arseniogalvao/Hostelworld/blob/master/Q4/Gists_suits.json
+$ newman run https://raw.githubusercontent.com/arseniogalvao/Hostelworld/master/Q4/Gists_suits.json
 ```
 
 If your collection file is available as an URL (such as from our [Cloud API service](https://api.getpostman.com)),
