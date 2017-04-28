@@ -12,21 +12,21 @@ The easiest way to install Newman is using NPM. If you have NodeJS installed, it
 installed as well.
 
 ```terminal
-$ npm install newman --global;
+$ npm install newman --global
 ```
 
 The `newman run` command allows you to specify a collection to be run. You can easily export your Postman
 Collection as a json file from the [Postman App](https://www.getpostman.com/apps) and run it using Newman.
 
 ```terminal
-$ newman run https://github.com/arseniogalvao/Hostelworld/Q4/Q4.json;
+$ newman run https://github.com/arseniogalvao/Hostelworld/blob/master/Q4/Q4.json
 ```
 
 If your collection file is available as an URL (such as from our [Cloud API service](https://api.getpostman.com)),
 Newman can fetch your file and run it as well.
 
 ```terminal
-$ newman run https://www.getpostman.com/collections/913cbf0bdf6e84acae56;
+$ newman run https://www.getpostman.com/collections/913cbf0bdf6e84acae56
 ```
 For the complete list of options, refer the [Commandline Options](#commandline-options) section below.
 
