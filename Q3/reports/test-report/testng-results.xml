@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" tests="3">
+<testcase classname="HomePage hostelworld" name="Validate the searches in hostelword site" time="26.676334">
+<system-out><![CDATA[Given access to link "http://www.hostelworld.com"..............................................passed
+When resolution is "0" "0".........................................................passed
+And insert word to find "Dublin, Ireland"..................................................passed
+And click menu SotByName..........................................................passed
+And validate the asort name result.....................................................passed
+Then Close and Quit.............................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="HomePage hostelworld" name="Validate the searches in hostelword site" time="25.041844">
+<system-out><![CDATA[Given access to link "http://www.hostelworld.com"..............................................passed
+When resolution is "412" "732".......................................................passed
+And insert word to find "Dublin, Ireland"..................................................passed
+And click menu SotByName..........................................................passed
+And validate the asort name result.....................................................passed
+Then Close and Quit.............................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="HomePage hostelworld" name="Validate the searches in hostelword site" time="19.346443">
+<system-out><![CDATA[Given access to link "http://www.hostelworld.com"..............................................passed
+When resolution is "768" "1024".......................................................passed
+And insert word to find "Dublin, Ireland"..................................................passed
+And click menu SotByName..........................................................passed
+And validate the asort name result.....................................................passed
+Then Close and Quit.............................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
