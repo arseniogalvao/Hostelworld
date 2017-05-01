@@ -4,7 +4,7 @@ By Maven:
 ```terminal
 $ mvn clean install
 ```
-By IDE
+By IDE:
 ```Eclipse & IntelliJ
 To run this project have to execute "_TestRun"
 ```
