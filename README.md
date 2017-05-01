@@ -1,9 +1,9 @@
 # Hostelworld
 
-Q1:
+Q1: https://github.com/arseniogalvao/Hostelworld/blob/master/Q1/README.md
 
-Q2:
+Q2: https://github.com/arseniogalvao/Hostelworld/blob/master/Q2/README.md
 
-Q3:
+Q3: https://github.com/arseniogalvao/Hostelworld/blob/master/Q3/README.md
 
-Q4:
+Q4: https://github.com/arseniogalvao/Hostelworld/blob/master/Q4/README.md
