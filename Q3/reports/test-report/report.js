@@ -61,7 +61,7 @@ formatter.match({
   "location": "HomePage.OpenBrowser(String)"
 });
 formatter.result({
-  "duration": 12450954374,
+  "duration": 12787819985,
   "status": "passed"
 });
 formatter.step({
@@ -87,7 +87,7 @@ formatter.match({
   "location": "HomePage.resolutionPage(Integer,Integer)"
 });
 formatter.result({
-  "duration": 1182069766,
+  "duration": 1260855063,
   "status": "passed"
 });
 formatter.step({
@@ -108,7 +108,7 @@ formatter.match({
   "location": "HomePage.InsertWord(String)"
 });
 formatter.result({
-  "duration": 7393914757,
+  "duration": 8820842072,
   "status": "passed"
 });
 formatter.step({
@@ -120,7 +120,7 @@ formatter.match({
   "location": "HomePage.ClickSort()"
 });
 formatter.result({
-  "duration": 3197639887,
+  "duration": 1155779653,
   "status": "passed"
 });
 formatter.step({
@@ -132,7 +132,7 @@ formatter.match({
   "location": "HomePage.AssertValues()"
 });
 formatter.result({
-  "duration": 285775027,
+  "duration": 180044968,
   "status": "passed"
 });
 formatter.step({
@@ -144,7 +144,7 @@ formatter.match({
   "location": "HomePage.CloseBrowser()"
 });
 formatter.result({
-  "duration": 2165979883,
+  "duration": 1847543448,
   "status": "passed"
 });
 formatter.scenario({
@@ -188,7 +188,7 @@ formatter.match({
   "location": "HomePage.OpenBrowser(String)"
 });
 formatter.result({
-  "duration": 10731064807,
+  "duration": 11674019326,
   "status": "passed"
 });
 formatter.step({
@@ -214,7 +214,7 @@ formatter.match({
   "location": "HomePage.resolutionPage(Integer,Integer)"
 });
 formatter.result({
-  "duration": 1269551722,
+  "duration": 1185885504,
   "status": "passed"
 });
 formatter.step({
@@ -235,7 +235,7 @@ formatter.match({
   "location": "HomePage.InsertWord(String)"
 });
 formatter.result({
-  "duration": 9403127513,
+  "duration": 7500963649,
   "status": "passed"
 });
 formatter.step({
@@ -247,7 +247,7 @@ formatter.match({
   "location": "HomePage.ClickSort()"
 });
 formatter.result({
-  "duration": 1829748395,
+  "duration": 1185889170,
   "status": "passed"
 });
 formatter.step({
@@ -259,7 +259,7 @@ formatter.match({
   "location": "HomePage.AssertValues()"
 });
 formatter.result({
-  "duration": 274989792,
+  "duration": 123936376,
   "status": "passed"
 });
 formatter.step({
@@ -271,7 +271,7 @@ formatter.match({
   "location": "HomePage.CloseBrowser()"
 });
 formatter.result({
-  "duration": 1533361875,
+  "duration": 1235820736,
   "status": "passed"
 });
 formatter.scenario({
@@ -315,7 +315,7 @@ formatter.match({
   "location": "HomePage.OpenBrowser(String)"
 });
 formatter.result({
-  "duration": 8806433168,
+  "duration": 13010535984,
   "status": "passed"
 });
 formatter.step({
@@ -341,7 +341,7 @@ formatter.match({
   "location": "HomePage.resolutionPage(Integer,Integer)"
 });
 formatter.result({
-  "duration": 1186182407,
+  "duration": 1195212622,
   "status": "passed"
 });
 formatter.step({
@@ -362,7 +362,7 @@ formatter.match({
   "location": "HomePage.InsertWord(String)"
 });
 formatter.result({
-  "duration": 5936576626,
+  "duration": 13472460334,
   "status": "passed"
 });
 formatter.step({
@@ -374,7 +374,7 @@ formatter.match({
   "location": "HomePage.ClickSort()"
 });
 formatter.result({
-  "duration": 2050817873,
+  "duration": 2341957661,
   "status": "passed"
 });
 formatter.step({
@@ -386,7 +386,7 @@ formatter.match({
   "location": "HomePage.AssertValues()"
 });
 formatter.result({
-  "duration": 168992153,
+  "duration": 406345050,
   "status": "passed"
 });
 formatter.step({
@@ -398,7 +398,7 @@ formatter.match({
   "location": "HomePage.CloseBrowser()"
 });
 formatter.result({
-  "duration": 1197441219,
+  "duration": 1812937152,
   "status": "passed"
 });
 });

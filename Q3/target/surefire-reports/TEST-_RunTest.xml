@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="21" failures="0" name="_RunTest" time="73.244" errors="0" skipped="0">
+<testsuite tests="21" failures="0" name="_RunTest" time="84.001" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\i2s-devenv\apps\jdk1.8.0_66\jre\bin"/>
@@ -64,12 +64,12 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="| 1 | 0 | 0 | Dublin\u002C Ireland |" name="Given access to link \&quot;http:\/\/www.hostelworld.com\&quot;" time="0"/>
+  <testcase classname="| 1 | 0 | 0 | Dublin\u002C Ireland |" name="Given access to link \&quot;http:\/\/www.hostelworld.com\&quot;" time="0.001"/>
   <testcase classname="| 1 | 0 | 0 | Dublin\u002C Ireland |" name="When resolution is \&quot;0\&quot; \&quot;0\&quot;" time="0"/>
   <testcase classname="| 1 | 0 | 0 | Dublin\u002C Ireland |" name="And insert word to find \&quot;Dublin\u002C Ireland\&quot;" time="0"/>
   <testcase classname="| 1 | 0 | 0 | Dublin\u002C Ireland |" name="And click menu SotByName" time="0"/>
   <testcase classname="| 1 | 0 | 0 | Dublin\u002C Ireland |" name="And validate the asort name result" time="0"/>
-  <testcase classname="| 1 | 0 | 0 | Dublin\u002C Ireland |" name="Then Close and Quit" time="0.001"/>
+  <testcase classname="| 1 | 0 | 0 | Dublin\u002C Ireland |" name="Then Close and Quit" time="0"/>
   <testcase classname="| 1 | 0 | 0 | Dublin\u002C Ireland |" name="| 1 | 0 | 0 | Dublin\u002C Ireland |" time="0.002"/>
   <testcase classname="| 2 | 412 | 732 | Dublin\u002C Ireland |" name="Given access to link \&quot;http:\/\/www.hostelworld.com\&quot;" time="0"/>
   <testcase classname="| 2 | 412 | 732 | Dublin\u002C Ireland |" name="When resolution is \&quot;412\&quot; \&quot;732\&quot;" time="0"/>
@@ -81,8 +81,8 @@
   <testcase classname="| 3 | 768 | 1024 | Dublin\u002C Ireland |" name="Given access to link \&quot;http:\/\/www.hostelworld.com\&quot;" time="0"/>
   <testcase classname="| 3 | 768 | 1024 | Dublin\u002C Ireland |" name="When resolution is \&quot;768\&quot; \&quot;1024\&quot;" time="0"/>
   <testcase classname="| 3 | 768 | 1024 | Dublin\u002C Ireland |" name="And insert word to find \&quot;Dublin\u002C Ireland\&quot;" time="0"/>
-  <testcase classname="| 3 | 768 | 1024 | Dublin\u002C Ireland |" name="And click menu SotByName" time="0.001"/>
+  <testcase classname="| 3 | 768 | 1024 | Dublin\u002C Ireland |" name="And click menu SotByName" time="0"/>
   <testcase classname="| 3 | 768 | 1024 | Dublin\u002C Ireland |" name="And validate the asort name result" time="0"/>
   <testcase classname="| 3 | 768 | 1024 | Dublin\u002C Ireland |" name="Then Close and Quit" time="0"/>
-  <testcase classname="| 3 | 768 | 1024 | Dublin\u002C Ireland |" name="| 3 | 768 | 1024 | Dublin\u002C Ireland |" time="0.001"/>
+  <testcase classname="| 3 | 768 | 1024 | Dublin\u002C Ireland |" name="| 3 | 768 | 1024 | Dublin\u002C Ireland |" time="0"/>
 </testsuite>

@@ -31,7 +31,7 @@ public class HomePage {
     @Given("^access to link \"(.*)\"$")
     public void OpenBrowser(String LinkPage){
         //Chrome driver
-        System.setProperty("webdriver.chrome.driver", "driver\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "driver/chromedriver.exe");
         dr = new ChromeDriver();
         dr.get(LinkPage);
         /*Collection<String> s = new LinkedList<String>();
