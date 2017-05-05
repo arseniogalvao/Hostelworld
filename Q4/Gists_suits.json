@@ -78,7 +78,7 @@
 			"method": "DELETE",
 			"data": null,
 			"dataMode": "params",
-			"tests": "tests[\"Status code is 204\"] = responseCode.code === 204;\n\ntests[\"Body is correct\"] = responseBody === \"\";",
+			"tests": "tests[\"Status code is 204\"] = responseCode.code === 201;\n\ntests[\"Body is correct\"] = responseBody === \"\";",
 			"currentHelper": "normal",
 			"helperAttributes": {},
 			"time": 1493418934410,
